@@ -7,11 +7,11 @@
 
 ### What I Do
 🎓 Machine Learning Graduate turned GenAI Engineer  
-💡 Fan of NLP, Data Analytics, and solving real-world puzzles with AI  
+💡 Aficionado of NLP, Data Analytics, and solving real-world problems with AI  
 🧩 Love piecing together unique solutions from complex puzzles
 
 ### Tech Toolkit
-- Python, TensorFlow, MySQL, FastAPI
+- Python, Pytorch, TensorFlow, MySQL, FastAPI
 - Crafting with libraries like Scikit-learn, Pandas, NumPy, and LangChain (just to name a few!)
 - Hands-on with NLP models, classic ML, and turning messy data into business insights
 - Always itching to learn something new, whether it’s fine-tuning LLMs, visualizing stories in data, or mastering the next great tool
