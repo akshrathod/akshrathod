@@ -1,16 +1,30 @@
-## Hi there 👋
+## Connecting Dots — My Journey
 
-<!--
-**akshrathod/akshrathod** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👋 Hey, I'm Akshara!  
+🌍 Based in Jersey City, NJ  
+📧 [Email](mailto:rathodaksh@gmail.com)  
+🔗 [LinkedIn](https://www.linkedin.com/in/arbhukya/)
 
-Here are some ideas to get you started:
+### What I Do
+🎓 Machine Learning Graduate turned GenAI Engineer  
+💡 Fan of NLP, Data Analytics, and solving real-world puzzles with AI  
+🧩 Love piecing together unique solutions from complex puzzles
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Tech Toolkit
+- Python, TensorFlow, MySQL, FastAPI
+- Crafting with libraries like Scikit-learn, Pandas, NumPy, and LangChain (just to name a few!)
+- Hands-on with NLP models, classic ML, and turning messy data into business insights
+- Always itching to learn something new, whether it’s fine-tuning LLMs, visualizing stories in data, or mastering the next great tool
+
+### Passions & Hobbies
+- Pattern hunting: sudoku, data sets, and all things logical
+- Listening to music, cooking for friends, treating myself with desserts and occasional doodling
+- Curious about how data and AI open up possibilities in research and business
+
+### Current Focus
+🚀 Exploring AI's role in making life and work easier (and a lot more interesting)
+🎯 Focused on personal and professional growth; building standout projects, learning new tech, and connecting with inspiring people before 2025 wraps up  
+🌱 Open to new job opportunities in AI, data, and innovation
+
+### Let’s Connect!
+If you love turning chaos into elegant solutions, or just want to swap puzzle stories, drop me a note!
