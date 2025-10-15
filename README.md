@@ -7,7 +7,7 @@
 
 ### What I Do
 🎓 Machine Learning Graduate turned GenAI Engineer  
-💡 Aficionado of NLP, Data Analytics, and solving real-world problems with AI  
+💡 Math Aficionado who loves NLP, Data Analytics, and solving real-world problems with AI  
 🧩 Love piecing together unique solutions from complex puzzles
 
 ### Tech Toolkit
@@ -18,13 +18,13 @@
 
 ### Passions & Hobbies
 - Pattern hunting: sudoku, data sets, and all things logical
-- Listening to music, cooking for friends, treating myself with desserts and occasional doodling
+- Listening to music, teaching math, treating myself with desserts and occasional doodling
 - Curious about how data and AI open up possibilities in research and business
 
 ### Current Focus
 🚀 Exploring AI's role in making life and work easier (and a lot more interesting)
-🎯 Focused on personal and professional growth; building standout projects, learning new tech, and connecting with inspiring people before 2025 wraps up  
-🌱 Open to new job opportunities in AI, data, and innovation
+🎯 Focused on personal and professional growth; building projects in science, learning new tech, and connecting with inspiring people before 2025 wraps up  
+🌱 Open to new job opportunities in AI, data, and science research
 
 ### Let’s Connect!
 If you love turning chaos into elegant solutions, or just want to swap puzzle stories, drop me a note!
