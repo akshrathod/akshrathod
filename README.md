@@ -6,9 +6,9 @@
 🔗 [LinkedIn](https://www.linkedin.com/in/arbhukya/)
 
 ### What I Do
-🎓 Machine Learning Graduate turned GenAI Engineer  
-💡 Math Aficionado who loves NLP, Data Analytics, and solving real-world problems with AI  
-🧩 Love piecing together unique solutions from complex puzzles
+- Machine Learning Graduate turned GenAI Engineer  
+- Math Aficionado who loves NLP, Data Analytics, and solving real-world problems with AI  
+- Love piecing together unique solutions from complex puzzles
 
 ### Tech Toolkit
 - Python, Pytorch, TensorFlow, MySQL, FastAPI
@@ -22,9 +22,9 @@
 - Curious about how data and AI open up possibilities in research and business
 
 ### Current Focus
-🚀 Exploring AI's role in making life and work easier (and a lot more interesting)
-🎯 Focused on personal and professional growth; building projects in science, learning new tech, and connecting with inspiring people before 2025 wraps up  
-🌱 Open to new job opportunities in AI, data, and science research
+- Exploring AI's role in making life and work easier (and a lot more interesting)
+- Focused on personal and professional growth; building projects in science, learning new tech, and connecting with inspiring people before 2025 wraps up  
+- Open to new job opportunities in AI, data, and science research
 
 ### Let’s Connect!
 If you love turning chaos into elegant solutions, or just want to swap puzzle stories, drop me a note!
