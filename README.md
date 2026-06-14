@@ -23,7 +23,7 @@
 
 ### Current Focus
 - Exploring AI's role in making life and work easier (and a lot more interesting)
-- Focused on personal and professional growth; building projects in science, learning new tech, and connecting with inspiring people before 2025 wraps up  
+- Focused on personal and professional growth; building projects in science, learning new tech, and connecting with inspiring people before 2026 wraps up  
 - Open to new job opportunities in AI, data, and science research
 
 ### Let’s Connect!
